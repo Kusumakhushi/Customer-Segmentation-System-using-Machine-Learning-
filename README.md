@@ -17,11 +17,7 @@ Based on data and after analysing, users were divided into various categories su
 
 - Tech (Tech Savy, Luxuorios, Flagship Killers, Others..)
 - Brand Lovers (Apple, Samsung, Huawei, Others..)
-- Camera Lovers (Sensible, PhotoPhile, SelfieLover)
-
-### Technical Architecture
-
-![Architecture](images/11.png)
+- Camera Lovers (Sensible, PhotoPhile, SelfieLover
 
 ### Technology Stack
 
